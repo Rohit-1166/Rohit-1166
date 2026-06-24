@@ -21,7 +21,6 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/Open%20to%20Internships-Yes-00D4FF?style=flat-square&color=8A2BE2&labelColor=161B22" alt="Open to Internships" />
-    <img src="https://komarev.com/ghpvc/?username=Rohit-1166&label=Profile%20Views&color=6C63FF&style=flat-square&base=161B22" alt="Profile Views" />
   </p>
 </div>
 
