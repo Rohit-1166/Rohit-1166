@@ -28,12 +28,12 @@
 
 ## 👨‍💻 About
 
-> Engineering scalable backends, training intelligent models, and building seamless full-stack applications.
+> Architecting secure backends, engineering AI-powered pipelines, and building premium full-stack applications.
 
-I focus on **systems design**, **machine learning integrations**, and **robust software architecture**. Rather than just writing code, I strive to solve complex problems by making architectural decisions that balance scalability, performance, and maintainability.
+I focus on **production-grade API design**, **hybrid semantic search integration**, and **secure software architecture**. With a strong foundation in Data Structures & Algorithms, I strive to solve complex engineering problems by making architectural decisions that balance strict security constraints, performance optimization, and maintainability.
 
 - 🎓 **Education**: B.Tech in Computer Science & Engineering, IIIT Guwahati (Class of 2028)
-- 🎯 **Current Focus**: [Insert Current Tech/Framework Focus, e.g., Distributed Systems, Go, PyTorch]
+- 🎯 **Current Focus**: Secure Backend Architecture (Node.js/Express) & Agentic AI (Semantic Search/Embeddings)
 - 💡 **Engineering Philosophy**: "Maintainability over visual clutter. Design for scalability. Code for humans."
 
 ---
@@ -43,43 +43,45 @@ I focus on **systems design**, **machine learning integrations**, and **robust s
 ### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C++-161B22?style=flat-square&logo=cplusplus&logoColor=00599C" />
   <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=java&logoColor=007396" />
+  <img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" />
 </p>
 
 ### Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Django-161B22?style=flat-square&logo=django&logoColor=092E20" />
 </p>
 
 ### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/TailwindCSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6" />
 </p>
 
 ### Database
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Redis-161B22?style=flat-square&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" />
 </p>
 
 ### DevOps & Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-161B22?style=flat-square&logo=githubactions&logoColor=2088FF" />
-  <img src="https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazonaws&logoColor=232F3E" />
+  <img src="https://img.shields.io/badge/Firebase-161B22?style=flat-square&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Render-161B22?style=flat-square&logo=render&logoColor=46E3B7" />
+  <img src="https://img.shields.io/badge/RailWay-161B22?style=flat-square&logo=railway&logoColor=0B0D0E" />
 </p>
 
-### AI / ML
+### AI / ML & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/Jupyter-161B22?style=flat-square&logo=jupyter&logoColor=F37626" />
 </p>
 
 ---
@@ -95,39 +97,51 @@ I focus on **systems design**, **machine learning integrations**, and **robust s
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔥 Skillsync-v1 (Talent Discovery System)</b></summary>
+<summary><b>🔥 SkillSync – AI-Powered Recruiter Resume Ranker</b></summary>
 <br/>
 
 **Overview:** 
-A talent discovery system designed to connect professionals and streamline recruitment.
+A production-grade, fully offline candidate discovery and hybrid ranking system built for the India Runs Hackathon 2026 (AI Recruitment Intelligence track). Designed to match 100,000+ candidates against a job description.
 
 **Architecture & Features:**
-- Scalable backend system.
-- Intelligent discovery algorithms.
+- Architected a 100% offline AI pipeline with zero data exfiltration.
+- Implemented flat cosine semantic caching for CPU-optimized similarity search without GPU dependency.
+- Designed strategic honeypot and trap filters for fraud detection with Explainable AI (XAI) justifications.
 
-**Tech Stack:** `Python`
+**Tech Stack:** `Python`, `Hybrid Semantic Search`, `Cosine Similarity Caching`, `Explainable AI`, `Embeddings`
 
 **Links:** [Repository](https://github.com/Rohit-1166/Skillsync-v1)
 
 </details>
 
 <details>
-<summary><b>🔐 Authentication-Project-Portal</b></summary>
+<summary><b>🔐 Authentication & Submission Portal</b></summary>
 <br/>
 
 **Overview:** 
-A premium, glassmorphic Developer Assessment Portal built specifically as an Intern Project Submission Portal.
+A premium, glassmorphic Developer Assessment Portal built for managing intern project submissions, enabling real-time ZIP file inspection and automated code compliance verification.
 
 **Architecture & Features:**
-- Secure authentication flow.
-- Glassmorphic UI design.
-- Developer assessment tracking.
+- Secure Refresh Token Rotation (RTR) with 15-minute short-lived access tokens and 7-day refresh tokens.
+- Engineered unique jti claims on all tokens to prevent race-condition key clashes.
+- Designed an interactive API Sandbox with a live JWT Claims Decoder.
 
-**Tech Stack:** `JavaScript`, `CSS`, `HTML`
+**Tech Stack:** `React`, `Vite`, `Node.js`, `Express`, `MongoDB`, `JWT`, `bcryptjs`
 
 **Links:** [Repository](https://github.com/Rohit-1166/Authentication-Project-Portal)
 
 </details>
+
+---
+
+## 💼 Experience
+
+- **Backend Development Intern** @ Skillfied Mentor *(Jun 2026 - Present)*
+  - Designing secure authentication APIs and Refresh Token Rotation (RTR).
+  - Building a Blog API service covering CRUD operations and structured data modeling using Node.js and Express.
+- **Full Stack Development Intern** @ Codec Technologies India *(May 2026 – Jun 2026)*
+  - Engineered a real-time chat application using React, Vite, and Socket.io with sub-second message delivery.
+  - Built a Node.js/Express backend with MongoDB and Firebase for real-time data sync.
 
 ---
 
@@ -164,17 +178,17 @@ A premium, glassmorphic Developer Assessment Portal built specifically as an Int
 
 ## 🏆 Achievements & Certifications
 
-- **[Achievement 1]**: [Details here]
-- **[Certification 1]**: [Details here]
-- **[Coding Profile]**: [LeetCode/Codeforces/HackerRank link and rank]
+- **Solved 120+ DSA Problems**: Actively building consistency in Data Structures & Algorithms and competitive programming.
+- **India Runs Hackathon 2026**: Built SkillSync, an AI-powered recruitment ranking system for the AI Recruitment Intelligence track.
+- **AICTE & ICAC Certified**: Full Stack Development Internship Certificate of Completion from Codec Technologies India.
 
 ---
 
 ## ⏳ Current Focus & Roadmap
 
-- 📚 **Learning**: [Deep Learning, Advanced System Design, etc.]
-- 💻 **Building**: [Next big project or Open Source contribution]
-- 📝 **Writing**: [Technical Blog / Documentation]
+- 📚 **Learning**: Competitive programming consistency and exploring Agentic AI & LLMs.
+- 💻 **Building**: A Blog API service covering CRUD operations and advanced authentication-protected routes.
+- 🛠 **Refining**: Production-grade backend security practices and semantic search optimization.
 
 ---
 
