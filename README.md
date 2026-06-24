@@ -15,7 +15,7 @@
 
   <!-- Contact/Social Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/Rohit-1166"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/rohit-kumar-948b21371/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
     <a href="https://x.com/11_Rohit_66"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="X/Twitter" /></a>
   </p>
 
