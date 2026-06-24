@@ -19,7 +19,10 @@
     <a href="https://x.com/11_Rohit_66"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="X/Twitter" /></a>
   </p>
 
-  <img src="https://img.shields.io/badge/Open%20to%20Internships-Yes-00D4FF?style=flat-square&color=8A2BE2&labelColor=161B22" alt="Open to Internships" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/Open%20to%20Internships-Yes-00D4FF?style=flat-square&color=8A2BE2&labelColor=161B22" alt="Open to Internships" />
+    <img src="https://komarev.com/ghpvc/?username=Rohit-1166&label=Profile%20Views&color=6C63FF&style=flat-square&base=161B22" alt="Profile Views" />
+  </p>
 </div>
 
 <br />
@@ -35,6 +38,11 @@ I focus on **production-grade API design**, **hybrid semantic search integration
 - 🎓 **Education**: B.Tech in Computer Science & Engineering, IIIT Guwahati (Class of 2028)
 - 🎯 **Current Focus**: Secure Backend Architecture (Node.js/Express) & Agentic AI (Semantic Search/Embeddings)
 - 💡 **Engineering Philosophy**: "Maintainability over visual clutter. Design for scalability. Code for humans."
+
+<br />
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quote of the Day" />
+</div>
 
 ---
 
@@ -96,41 +104,14 @@ I focus on **production-grade API design**, **hybrid semantic search integration
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🔥 SkillSync – AI-Powered Recruiter Resume Ranker</b></summary>
-<br/>
-
-**Overview:** 
-A production-grade, fully offline candidate discovery and hybrid ranking system built for the India Runs Hackathon 2026 (AI Recruitment Intelligence track). Designed to match 100,000+ candidates against a job description.
-
-**Architecture & Features:**
-- Architected a 100% offline AI pipeline with zero data exfiltration.
-- Implemented flat cosine semantic caching for CPU-optimized similarity search without GPU dependency.
-- Designed strategic honeypot and trap filters for fraud detection with Explainable AI (XAI) justifications.
-
-**Tech Stack:** `Python`, `Hybrid Semantic Search`, `Cosine Similarity Caching`, `Explainable AI`, `Embeddings`
-
-**Links:** [Repository](https://github.com/Rohit-1166/Skillsync-v1)
-
-</details>
-
-<details>
-<summary><b>🔐 Authentication & Submission Portal</b></summary>
-<br/>
-
-**Overview:** 
-A premium, glassmorphic Developer Assessment Portal built for managing intern project submissions, enabling real-time ZIP file inspection and automated code compliance verification.
-
-**Architecture & Features:**
-- Secure Refresh Token Rotation (RTR) with 15-minute short-lived access tokens and 7-day refresh tokens.
-- Engineered unique jti claims on all tokens to prevent race-condition key clashes.
-- Designed an interactive API Sandbox with a live JWT Claims Decoder.
-
-**Tech Stack:** `React`, `Vite`, `Node.js`, `Express`, `MongoDB`, `JWT`, `bcryptjs`
-
-**Links:** [Repository](https://github.com/Rohit-1166/Authentication-Project-Portal)
-
-</details>
+<div align="center">
+  <a href="https://github.com/Rohit-1166/Skillsync-v1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit-1166&repo=Skillsync-v1&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&icon_color=00D4FF&border_color=161B22" alt="Skillsync-v1" width="48%" />
+  </a>
+  <a href="https://github.com/Rohit-1166/Authentication-Project-Portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit-1166&repo=Authentication-Project-Portal&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&icon_color=00D4FF&border_color=161B22" alt="Authentication Portal" width="48%" />
+  </a>
+</div>
 
 ---
 
@@ -149,8 +130,8 @@ A premium, glassmorphic Developer Assessment Portal built for managing intern pr
 
 <div align="center">
   
-  ### Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohit-1166&theme=dracula&bg_color=0D1117&border_color=161B22&title_color=6C63FF&text_color=ffffff&no_frame=false&margin-w=15" alt="Trophies" />
+  ### Overall Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-1166&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&icon_color=00D4FF&border_color=161B22&hide_border=false" alt="Rohit's GitHub Stats" />
 
   <br/><br/>
 
@@ -158,6 +139,18 @@ A premium, glassmorphic Developer Assessment Portal built for managing intern pr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-1166&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&hide_border=false&border_color=161B22" alt="Top Languages" />
 
   <br/><br/>
+
+  ### LeetCode Stats
+  <img src="https://leetcard.jacoblin.cool/11rohit66?theme=dark&font=JetBrains%20Mono&ext=activity" alt="LeetCode Stats" />
+
+  <br/><br/>
+
+  ### Coding Activity (WakaTime)
+  <!--START_SECTION:waka-->
+  <!-- WakaTime stats will be injected here by GitHub Actions -->
+  <!--END_SECTION:waka-->
+  
+  <br/>
 
   ### Contribution Streak
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-1166&theme=tokyonight&background=0D1117&border=161B22&ring=8A2BE2&fire=00D4FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=ffffff" alt="GitHub Streak" />
@@ -191,6 +184,8 @@ A premium, glassmorphic Developer Assessment Portal built for managing intern pr
 - 🛠 **Refining**: Production-grade backend security practices and semantic search optimization.
 
 ---
+
+
 
 <div align="center">
   <p><i>Generated following Elite GitHub Profile Engineering Standards</i></p>
