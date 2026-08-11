@@ -148,12 +148,11 @@ I focus on **production-grade API design**, **hybrid semantic search integration
   <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2026 - To: 09 August 2026
+From: 03 August 2026 - To: 10 August 2026
 
-Python   1 hr 1 min            >>>>>>>>>>>>>>>----------   59.73 %
-C        27 mins               >>>>>>>------------------   26.65 %
-Java     13 mins               >>>----------------------   13.14 %
-Other    0 secs                -------------------------   00.48 %
+Java     2 hrs 34 mins         >>>>>>>>>>>>>>>>>>-------   73.99 %
+C        27 mins               >>>----------------------   13.15 %
+Python   26 mins               >>>----------------------   12.86 %
 ```
 
 <!--END_SECTION:waka-->
